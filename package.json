@@ -428,7 +428,7 @@
     "fs-exists-sync": "0.1.0",
     "fs-extra": "1.0.0",
     "fs.realpath": "1.0.0",
-    "fstream": "1.0.11",
+    "fstream": "1.0.12",
     "function-bind": "1.1.0",
     "function.prototype.name": "1.0.0",
     "gauge": "2.7.4",
