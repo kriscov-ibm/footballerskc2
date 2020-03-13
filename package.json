@@ -1023,7 +1023,7 @@
     "wbuf": "1.7.2",
     "webidl-conversions": "2.0.1",
     "webpack": "2.6.1",
-    "acorn": "5.1.1",
+    "acorn": "7.1.1",
     "source-list-map": "1.1.2",
     "webpack-sources": "0.2.3",
     "webpack-dev-middleware": "1.11.0",
