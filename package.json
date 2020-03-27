@@ -596,7 +596,7 @@
     "lcid": "1.0.0",
     "levn": "0.3.0",
     "load-json-file": "1.1.0",
-    "loader-fs-cache": "1.0.1",
+    "loader-fs-cache": "1.0.3",
     "loader-runner": "2.3.0",
     "loader-utils": "0.2.17",
     "locate-path": "2.0.0",
