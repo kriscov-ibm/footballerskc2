@@ -1027,7 +1027,7 @@
     "source-list-map": "1.1.2",
     "webpack-sources": "0.2.3",
     "webpack-dev-middleware": "1.11.0",
-    "webpack-dev-server": "2.6.1",
+    "webpack-dev-server": "3.11.0",
     "del": "3.0.0",
     "globby": "6.1.0",
     "pify": "3.0.0",
@@ -1095,6 +1095,6 @@
     "tape-watch": "^2.3.0",
     "url-loader": "^0.5.9",
     "webpack": "^2.6.1",
-    "webpack-dev-server": "^2.6.1"
+    "webpack-dev-server": "^3.11.0"
   }
 }
