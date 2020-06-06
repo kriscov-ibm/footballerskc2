@@ -1033,7 +1033,7 @@
     "pify": "3.0.0",
     "webpack-sources": "0.1.5",
     "websocket-driver": "0.6.5",
-    "websocket-extensions": "0.1.1",
+    "websocket-extensions": "0.1.4",
     "whatwg-fetch": "2.0.3",
     "whatwg-url-compat": "0.6.5",
     "whet.extend": "0.9.9",
