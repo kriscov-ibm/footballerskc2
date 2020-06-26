@@ -585,7 +585,7 @@
     "jsonify": "0.0.0",
     "jsonpointer": "4.0.1",
     "jsprim": "1.4.0",
-    "jsrsasign": "5.1.0",
+    "jsrsasign": "8.0.20",
     "jsx-ast-utils": "1.4.1",
     "keycode": "2.1.9",
     "kind-of": "3.2.2",
