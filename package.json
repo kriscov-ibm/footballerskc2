@@ -628,7 +628,7 @@
     "lodash.map": "4.6.0",
     "lodash.memoize": "4.1.2",
     "lodash.merge": "4.6.0",
-    "lodash.mergewith": "4.6.0",
+    "lodash.mergewith": "4.6.2",
     "lodash.pick": "4.4.0",
     "lodash.reduce": "4.6.0",
     "lodash.reject": "4.6.0",
