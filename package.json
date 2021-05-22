@@ -318,7 +318,7 @@
     "diff": "3.2.0",
     "diffie-hellman": "5.0.2",
     "dns-equal": "1.0.0",
-    "dns-packet": "1.1.1",
+    "dns-packet": "5.2.2",
     "dns-txt": "2.0.2",
     "doctrine": "2.0.0",
     "dom-helpers": "3.2.1",
