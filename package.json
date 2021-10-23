@@ -908,7 +908,7 @@
     "setprototypeof": "1.0.3",
     "sha.js": "2.4.8",
     "shallow-compare": "1.2.1",
-    "shell-quote": "1.6.1",
+    "shell-quote": "1.7.3",
     "shelljs": "0.7.7",
     "shortid": "2.2.8",
     "signal-exit": "3.0.2",
