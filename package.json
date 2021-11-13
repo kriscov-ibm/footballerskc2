@@ -529,7 +529,7 @@
     "is-function": "1.0.1",
     "is-generator-function": "1.0.6",
     "is-glob": "2.0.1",
-    "is-my-json-valid": "2.16.0",
+    "is-my-json-valid": "2.20.6",
     "xtend": "4.0.1",
     "is-npm": "1.0.0",
     "is-number": "2.1.0",
@@ -988,7 +988,7 @@
     "type-is": "1.6.15",
     "typedarray": "0.0.6",
     "ua-parser-js": "0.7.12",
-    "uglify-js": "2.8.29",
+    "uglify-js": "3.14.3",
     "camelcase": "1.2.1",
     "cliui": "2.1.0",
     "wordwrap": "0.0.2",
@@ -1022,7 +1022,7 @@
     "watchpack": "1.4.0",
     "wbuf": "1.7.2",
     "webidl-conversions": "2.0.1",
-    "webpack": "2.6.1",
+    "webpack": "3.0.0",
     "acorn": "5.1.1",
     "source-list-map": "1.1.2",
     "webpack-sources": "0.2.3",
@@ -1094,7 +1094,7 @@
     "tape-jsx-equals": "^1.0.0",
     "tape-watch": "^2.3.0",
     "url-loader": "^0.5.9",
-    "webpack": "^2.6.1",
+    "webpack": "^3.0.0",
     "webpack-dev-server": "^2.6.1"
   }
 }
