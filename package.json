@@ -47,7 +47,7 @@
     "amdefine": "1.0.1",
     "ansi-align": "1.1.0",
     "ansi-escapes": "1.4.0",
-    "ansi-html": "0.0.7",
+    "ansi-html": "0.0.9",
     "ansi-regex": "2.1.1",
     "ansi-styles": "2.2.1",
     "anymatch": "1.3.0",
@@ -1027,7 +1027,7 @@
     "source-list-map": "1.1.2",
     "webpack-sources": "0.2.3",
     "webpack-dev-middleware": "1.11.0",
-    "webpack-dev-server": "2.6.1",
+    "webpack-dev-server": "3.11.3",
     "del": "3.0.0",
     "globby": "6.1.0",
     "pify": "3.0.0",
@@ -1095,6 +1095,6 @@
     "tape-watch": "^2.3.0",
     "url-loader": "^0.5.9",
     "webpack": "^2.6.1",
-    "webpack-dev-server": "^2.6.1"
+    "webpack-dev-server": "^3.11.3"
   }
 }
