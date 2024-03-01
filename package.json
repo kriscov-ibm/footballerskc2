@@ -346,7 +346,7 @@
     "errorhandler": "1.5.0",
     "es-abstract": "1.7.0",
     "es-to-primitive": "1.1.1",
-    "es5-ext": "0.10.23",
+    "es5-ext": "0.10.63",
     "es6-error": "4.0.2",
     "es6-iterator": "2.0.1",
     "es6-map": "0.1.5",
