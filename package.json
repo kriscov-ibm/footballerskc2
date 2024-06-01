@@ -318,7 +318,7 @@
     "diff": "3.2.0",
     "diffie-hellman": "5.0.2",
     "dns-equal": "1.0.0",
-    "dns-packet": "1.1.1",
+    "dns-packet": "5.3.0",
     "dns-txt": "2.0.2",
     "doctrine": "2.0.0",
     "dom-helpers": "3.2.1",
@@ -672,7 +672,7 @@
     "supports-color": "3.1.2",
     "morgan": "1.8.2",
     "ms": "2.0.0",
-    "multicast-dns": "6.1.1",
+    "multicast-dns": "7.2.3",
     "multicast-dns-service-types": "1.1.0",
     "mute-stream": "0.0.5",
     "nan": "2.6.2",
@@ -1027,7 +1027,7 @@
     "source-list-map": "1.1.2",
     "webpack-sources": "0.2.3",
     "webpack-dev-middleware": "1.11.0",
-    "webpack-dev-server": "2.6.1",
+    "webpack-dev-server": "4.8.0",
     "del": "3.0.0",
     "globby": "6.1.0",
     "pify": "3.0.0",
@@ -1095,6 +1095,6 @@
     "tape-watch": "^2.3.0",
     "url-loader": "^0.5.9",
     "webpack": "^2.6.1",
-    "webpack-dev-server": "^2.6.1"
+    "webpack-dev-server": "^4.8.0"
   }
 }
