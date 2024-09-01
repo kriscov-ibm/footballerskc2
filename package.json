@@ -1022,7 +1022,7 @@
     "watchpack": "1.4.0",
     "wbuf": "1.7.2",
     "webidl-conversions": "2.0.1",
-    "webpack": "2.6.1",
+    "webpack": "5.94.0",
     "acorn": "5.1.1",
     "source-list-map": "1.1.2",
     "webpack-sources": "0.2.3",
@@ -1094,7 +1094,7 @@
     "tape-jsx-equals": "^1.0.0",
     "tape-watch": "^2.3.0",
     "url-loader": "^0.5.9",
-    "webpack": "^2.6.1",
+    "webpack": "^5.94.0",
     "webpack-dev-server": "^2.6.1"
   }
 }
