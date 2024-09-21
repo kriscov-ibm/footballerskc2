@@ -388,7 +388,7 @@
     "expand-brackets": "0.1.5",
     "expand-range": "1.8.2",
     "expect": "1.20.2",
-    "express": "4.15.3",
+    "express": "4.20.0",
     "express-urlrewrite": "1.2.0",
     "path-to-regexp": "1.7.0",
     "extend": "3.0.1",
